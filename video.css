@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(255, 226, 192);
+}
+
+.related-recipes-cards {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+
+.related-recipes-cards .card {
+    min-width: 18rem;
+    margin-right: 1rem;
+}
+.related-recipes-cards{
+    /* border: 2px solid red; */
+    width: 92vw;
+    
+}
+.forms-wrapper{
+    /* border: 2px solid red; */
+    width: 60vw;
+    margin-left : 4%;
+}
+.footer-mine{
+    background-color: #e0e0e0;
+}
+/* 
+.related-receipes-wrapper{
+    display: flex;
+    justify-content: center;
+} */

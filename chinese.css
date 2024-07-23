@@ -1,0 +1,21 @@
+.carousel-chinese {
+    max-width: 800px; /* Set max-width for the carousel */
+    margin: 0 auto; /* Center align the carousel */
+  }
+  
+  .carousel-inner {
+    height: 400px; /* Set the height of the carousel */
+  }
+  
+  .carousel-item img {
+    height: 100%; /* Make images take up the full height of the carousel */
+    object-fit: cover; /* Ensure images cover the carousel area without distortion */
+  }
+  
+.anchor-chinese{
+  text-decoration: none;
+  color: black;
+}
+.anchor-chinese:hover{
+  cursor: pointer;
+}

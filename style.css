@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(245, 245, 245);
+}
+.receipe{
+    background: url('./images/recipe-background.893de7f2.jpeg') no-repeat center center/cover;
+    height: 40vh;
+    /* border: 2px solid red; */
+    background-color: rgb(119, 118, 118);
+    background-blend-mode: multiply;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.nav-footer-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-footer-wrapper li{
+    list-style: none;
+}
+
+.navbar{
+    top : 0;
+    position : sticky;
+}
+
